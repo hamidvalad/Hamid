@@ -1,0 +1,1 @@
+print(hex(int(input(), 16) + 1)[2:].upper())
