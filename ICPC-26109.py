@@ -1,3 +1,5 @@
+#https://quera.ir/problemset/contest/26109/%D8%B3%D8%A4%D8%A7%D9%84-icpc
+
 p1, s1 = input().split()
 
 s2, p2 = input().split()
